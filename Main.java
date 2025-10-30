@@ -1,6 +1,5 @@
 // Main.java（修改后）
 public class Main {
-    int error = 1 / 0;
     public static void greet() {
         System.out.println("Hello, Git!");
     }
